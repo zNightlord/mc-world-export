@@ -1,4 +1,4 @@
-/*
+ /*
  * BSD 3-Clause License
  * 
  * Copyright (c) 2024, Bram Stout Productions
@@ -28,7 +28,7 @@
  * OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-package org.scaffoldeditor.worldexport.usd;
+package org.scaffoldeditor.worldexport.export.usd;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

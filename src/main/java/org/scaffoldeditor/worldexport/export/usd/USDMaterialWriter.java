@@ -29,7 +29,7 @@
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-package org.scaffoldeditor.worldexport.usd;
+package org.scaffoldeditor.worldexport.export.usd;
 
 import java.io.File;
 import java.io.IOException;

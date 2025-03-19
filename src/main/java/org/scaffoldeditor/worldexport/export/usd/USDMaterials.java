@@ -29,7 +29,7 @@
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-package nl.bramstout.mcworldexporter.export.usd;
+package org.scaffoldeditor.worldexport.usd;
 
 import java.io.BufferedReader;
 import java.io.File;

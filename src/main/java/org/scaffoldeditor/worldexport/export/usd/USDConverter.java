@@ -29,7 +29,7 @@
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-package nl.bramstout.mcworldexporter.export.usd;
+package org.scaffoldeditor.worldexport.export.usd;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;
@@ -76,7 +76,8 @@ import com.google.gson.JsonParser;
 // import nl.bramstout.mcworldexporter.resourcepack.ResourcePack;
 // import nl.bramstout.mcworldexporter.resourcepack.ResourcePacks;
 
-public class USDConverter extends Converter{
+/* TODO convert Vcap export to usd */
+public class USDConverter extends Converter {
 
 	private static class MatKey{
 		
